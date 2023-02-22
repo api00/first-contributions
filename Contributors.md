@@ -22,6 +22,7 @@
 -[Navajeevan](https://github.com/iamnavajeevan)
 - **[C.Viswanath](https://github.com/c-viswanath)**
 - [Himanshu G lilhare](https://github.com/Himanshu-lilhare)
+- [Aris Mufraggi](https://github.com/ariismuf) 
 - **[Virex22 - Vincent Remy](https://github.com/Virex22)**
 - **[Sadman Salim Nipun](https://github.com/nipun333)**
 - [ClameSys](https://github.com/clamesys)
@@ -97,6 +98,7 @@
 - [Tyler Beitel]
 - [Morgan Smith]
 - [Piyush Yadav](https://github.com/piyushyadav1617)
+- [Edouard Zemb](https://github.com/EdouardZemb)
 - [David R Watson](https://github.com/David-R-Watson)
 - [Abhay](https://github.com/im31abhay)
 - [Tejas Binu]
@@ -136,6 +138,8 @@
 - [Slater McArdle] (https://github.com/SlaterMcArdle)
 - [Georgios Kakarlis](https://github.com/georgekakarlis)
 - [sam gill]
+- [Tomas Carrasco] (https://github.com/tomascarrascoo)
+- [Di Liu](https://github.com/liudi4046)
 - [VIBHINN SINGHAL](https://github.com/VibhinnS)
 - [Saieeash Reddy](https://github.com/SaieeashReddy23)
 - [Panth Shah](https://github.com/Panth1823)
@@ -2548,6 +2552,7 @@ Ayan Das
 - [Tee Kaeophian](https://github.com/tkaeophian)
 - [Manuel Pineda](https://github.com/manuel12)
 - [Koji Takahiro](https://github.com/koji-takahiro)
+- [Victor Okech](https://github.com/victorokech)
 - [Zoheir Bentebbiche](https://github.com/zoheir78)
 - [Sam Barlas](https://github.com/sambarlas)
 - [Lucas Ribeiro](https://github.com/lucasribeiro-dev)
